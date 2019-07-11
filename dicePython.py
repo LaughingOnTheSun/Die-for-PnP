@@ -9,7 +9,7 @@ def oneToSixRoll(x): #function for random die output, 6 different dice.
         dieSum = dieSum + a
        
     
-def timeToRoll(): #function for choosing amount of die and which die to roll
+def timeToRoll(): #function for choosing amount of die and which die to roll.
     while True:
         print('Choose the amount of dice you want to roll with.')
         userDieCount = input()
