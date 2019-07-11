@@ -1,5 +1,5 @@
 # Die-for-PnP
-Python script for rolling one or multiple dice: 4, 6, 8, 10, 12, 20 sided die.
+Python script for rolling your choice of dice and the amount of dice.
 
 Step 1 choose the amount of dice you want to roll.
 
